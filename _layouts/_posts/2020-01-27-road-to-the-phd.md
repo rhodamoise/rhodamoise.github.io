@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Dr. RhoMo, Road to the PhD"
+title: "Dr. RhoMo, Road to the Ph.D."
 date: 2020-01-27
 ---
+
 Give thanks! - *sigh* -
 
 What a journey! 
